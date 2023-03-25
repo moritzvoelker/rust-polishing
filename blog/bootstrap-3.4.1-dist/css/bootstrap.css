@@ -66,10 +66,11 @@ dfn {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
+  color: green
 }
 mark {
   background: #ff0;
-  color: green;
+  color: #000;
 }
 small {
   font-size: 80%;
